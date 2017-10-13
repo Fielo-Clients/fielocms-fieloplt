@@ -375,5 +375,5 @@
         <apexPage>FieloCMSPLT_SegmentSelection</apexPage>
         <enabled>false</enabled>
     </pageAccesses> 
-    <userLicense>Authenticated Website</userLicense>
+    <userLicense>Customer Community</userLicense>
 </Profile>
